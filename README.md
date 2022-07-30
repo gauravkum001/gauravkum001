@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravkum001
+- 👋 Hi, I’m Gaurav Kumar
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning HTML, CSS, Bootstrap
 - 💞️ I’m looking to collaborate on ...
