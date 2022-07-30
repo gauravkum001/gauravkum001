@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravkum001
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning website Developing
+- 🌱 I’m currently learning HTML, CSS, Bootstrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
